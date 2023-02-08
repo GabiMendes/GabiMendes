@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello there 👋
+### Hello there 👋
 My name is Gabriela and I'm studying Systems Analysis.
 
 <br>
@@ -46,9 +44,7 @@ My name is Gabriela and I'm studying Systems Analysis.
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabiMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
-           
-           
-![](https://tenor.com/pt-BR/view/pusheen-gif-22048217)
+
 
 
 
