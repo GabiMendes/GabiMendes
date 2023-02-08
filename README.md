@@ -47,6 +47,8 @@ My name is Gabriela and I'm studying Systems Analysis.
 </div>
 -->
            
+           
+![](https://tenor.com/pt-BR/view/pusheen-gif-22048217)
 
 
 
