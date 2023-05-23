@@ -21,7 +21,7 @@ My name is Gabriela and I'm studying Systems Analysis.
     
   Meu livro favorito é "O Lado Bom da Vida" e a quantidade de vezes que o li não distoa tanto da quantidade de vezes que já vi o filme acima.
     
-  Meu jogo favorito é "Don't Starve" e posso já ter jogado esse jogo mais do que vinte vezes, mas é muito bacana sobreviver e colaborar em equipe.
+  Meu jogo favorito é "Don't Starve" e posso já ter jogado esse jogo mais do que vinte vezes, mas continua sendo muito bacana sobreviver e colaborar em equipe.
     
   E, finalmente, mas não menos importante: também amo os dias de chuva, mas não falo muito isso por aí, porque fico preocupada com quem está na rua.
     
