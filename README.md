@@ -24,8 +24,13 @@ My name is Gabriela and I'm studying Systems Analysis.
   Meu jogo favorito é "Don't Starve" e posso já ter jogado esse jogo mais do que vinte vezes, mas continua sendo muito bacana sobreviver e colaborar em equipe.
     
   E, finalmente, mas não menos importante: também amo os dias de chuva, mas não falo muito isso por aí, porque fico preocupada com quem está na rua.
-    
-    
+
+⚡ *Conheça algumas das minhas habilitades:*
+
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          
 <br>    
 📫 Ótimo te ver por aqui! Beijosluz!           
            
