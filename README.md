@@ -1,65 +1,27 @@
 ### Hello there 👋
-My name is Gabriela and I'm studying Systems Analysis.
+My name is Gabriela and I’m studying Systems Analysis.
 
-<br>
-<strong>Oi, gente!</strong>
-<br>
+🌱 My name is Gabriela and I study Systems Analysis.
 
-🌱 Me camo Gabriela e estudo Análise de Sistemas. 
+🔭 I am a teacher, graduated in Letters (licentiate) and I share between both courses the passion for Languages, besides loving to build in a team, whether in a company or in a classroom.
 
-🔭 Sou professora, formada em Letras (licenciatura) e partilho entre ambos os cursos a paixão por Linguagens, além de adorar construir em equipe, seja em empresa, seja em sala de aula.
-
-💬 Tagarelinha, amo uma boa conversa, principalmente se for acompanhada por uma canequinha de café (pode ser gelado ou quente, tá?)
+💬 Chatty, I love a good conversation, especially if it is accompanied by a little mug of coffee (it can be cold or hot, okay?)
 
 <br>
 
-⚡ Algumas curiosidades sobre mim:
-    
-  Filmão favorito: "PS: Eu te amo", e já assisti pelo menos umas vinte vezes. Isso não é um exagero.
-    
-  Livrão favorito: "O Lado Bom da Vida", e a quantidade de vezes que o li não distoa tanto da quantidade de vezes que já vi o filme acima.
-    
-  Jogaço: "Don't Starve", e posso já ter jogado esse jogo mais do que vinte vezes, mas continua sendo muito bacana sobreviver e colaborar em equipe.
-  
+⚡ Some curiosities about me:
+
+Favorite movie: “PS: I Love You”, and I’ve watched it at least twenty times. This is not an exaggeration.
+
+Favorite book: “The Silver Linings Playbook”, and the number of times I’ve read it doesn’t differ much from the number of times I’ve seen the movie above.
+
+Great, great game: “Don’t Starve”, and I may have already played this game more than twenty times, but it’s still very cool to survive and collaborate as a team.
+
 <br>
 
-⚡ Conheça algumas das minhas habilitades:
-<br>
-<br>
-  **Back-end/Web**
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> 
-<br>
-<br>
-  **Front-end**
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
-<br>
-<br>
- **Frameworks**
- <br>
- <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60" />
-           
-<br>    
-📫 Ótimo te ver por aqui! Beijosluz!           
-           
-<br>           
+⚡ Get to know some of my skills: <br> <br> Back-end/Web <br> <br> C, Python, Go, TypeScript, PHP, Java, JavaScript <br> <br> Front-end <br> <br> React, TypeScript, JavaScript <br> <br> Frameworks <br> <br> Next.js, Flask
 
-<!--<div>
-    <a href="https://github.com/GabiMendes">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMendes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabiMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
--->
+<br>
+📫 Great to see you here! Kisses of light!
+
+<br>
