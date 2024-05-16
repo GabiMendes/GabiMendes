@@ -14,21 +14,35 @@ My name is Gabriela and I'm studying Systems Analysis.
 <br>
 
 ⚡ Algumas curiosidades sobre mim:
-
-  Na realidade, adoro acordar cedo. É muito bonito ver o sol nascer e se pôr e, sinceramente, todo começo de manhã e fim de tarde sinto que a natureza está presenteando a todos com uma lembrança de que a vida é bem bonita e que um minutinho que seja do seu tempo para contemplar isso vale super a pena.
     
-  Meu filme favorito é "PS: Eu te amo" e já assisti pelo menos umas vinte vezes. Isso não é um exagero.
+  Filmão favorito: "PS: Eu te amo", e já assisti pelo menos umas vinte vezes. Isso não é um exagero.
     
-  Meu livro favorito é "O Lado Bom da Vida" e a quantidade de vezes que o li não distoa tanto da quantidade de vezes que já vi o filme acima.
+  Livrão favorito: "O Lado Bom da Vida", e a quantidade de vezes que o li não distoa tanto da quantidade de vezes que já vi o filme acima.
     
-  Meu jogo favorito é "Don't Starve" e posso já ter jogado esse jogo mais do que vinte vezes, mas continua sendo muito bacana sobreviver e colaborar em equipe.
-    
-  E, finalmente, mas não menos importante: também amo os dias de chuva, mas não falo muito isso por aí, porque fico preocupada com quem está na rua.
+  Jogaço: "Don't Starve", e posso já ter jogado esse jogo mais do que vinte vezes, mas continua sendo muito bacana sobreviver e colaborar em equipe.
+  
+<br>
 
 ⚡ *Conheça algumas das minhas habilitades:*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />        
+  **Back-end/Web**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> 
 
+  **Front-end**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jselivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> 
+
+ **Frameworks**
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60" />
+           
 <br>    
 📫 Ótimo te ver por aqui! Beijosluz!           
            
