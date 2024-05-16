@@ -23,9 +23,11 @@ My name is Gabriela and I'm studying Systems Analysis.
   
 <br>
 
-⚡ *Conheça algumas das minhas habilitades:*
+⚡ Conheça algumas das minhas habilitades:
+<br>
 <br>
   **Back-end/Web**
+  <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="60" height="60" />
@@ -35,13 +37,17 @@ My name is Gabriela and I'm studying Systems Analysis.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> 
 <br>
+<br>
   **Front-end**
+  <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
 <br>
+<br>
  **Frameworks**
+ <br>
  <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60" />
